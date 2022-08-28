@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <InputDefaultBindingsFixApplied>true</InputDefaultBindingsFixApplied>
+    <ShowMenuFixApplied>true</ShowMenuFixApplied>
+    <Volume>70</Volume>
+    <RecentFiles />
+    <WindowLocation>
+        <X>0</X>
+        <Y>0</Y>
+    </WindowLocation>
+    <WindowPosition>
+        <X>0</X>
+        <Y>0</Y>
+    </WindowPosition>
+    <WindowSize>
+        <Width>0</Width>
+        <Height>0</Height>
+    </WindowSize>
+    <ConfigEditorSearch>Video:</ConfigEditorSearch>
+    <Mute>no</Mute>
+</AppSettings>
